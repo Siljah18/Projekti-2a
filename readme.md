@@ -20,7 +20,7 @@ Käyttäjä voi etsiä tuotteita. Sovellus hakee tuotteiden tietoja Fake Store A
 
 ## Verkkolinkit
 
-- **Julkaistu sovellus:** [](https://yourusername.github.io/your-repository/)
+- **Julkaistu sovellus:** [https://flourishing-starship-f7adc0.netlify.app]
 - **GitHub-repositorio:** [https://github.com/Siljah18/Projekti-2a]
 - **Projektin videoesittely:** [https://video.laurea.fi/media/Product+store+video/0_y56tjdfo]
 
