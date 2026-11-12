@@ -1,0 +1,38 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Store</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <!-- Otsikko ja esittely -->
+    <h1>Product Store</h1>
+    <p>Find and explore different products!</p>
+    <!-- Kategoria -->
+    <h2>Choose category</h2>
+
+    <select id="categorySelect">
+        <option value="">All</option>
+    </select>
+    <!-- Haku-->
+    <h2>Search for a product</h2>
+
+    <input type="text" id="searchInput" placeholder="Enter product name...">
+    <button id="searchButton">Search</button>
+
+    <!-- Suodatus -->
+    <h2>Filter by price</h2>
+
+    <input type="number" id="minPrice" placeholder="Min.">
+    <input type="number" id="maxPrice" placeholder="Max.">
+    <button id="priceButton">Filter</button>
+
+    <!-- näytetään tuotteet -->
+    <div id="productList"></div>
+    <!-- Yhdistetään Js -->
+    <script src="js/script.js"></script>
+</body>
+</html>
