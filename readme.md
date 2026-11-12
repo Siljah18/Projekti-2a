@@ -21,7 +21,7 @@ Käyttäjä voi etsiä tuotteita. Sovellus hakee tuotteiden tietoja Fake Store A
 ## Verkkolinkit
 
 - **Julkaistu sovellus:** [Lisää tähän GitHub Pages -osoite](https://yourusername.github.io/your-repository/)
-- **GitHub-repositorio:** [Lisää tähän repositorion osoite](https://github.com/yourusername/your-repository)
+- **GitHub-repositorio:** [https://github.com/Siljah18/Projekti-2a]
 - **Projektin videoesittely:** [Lisää tähän videon osoite](https://example.com/)
 
 ## Tietoja sovelluksesta
